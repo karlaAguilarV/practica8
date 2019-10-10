@@ -1,0 +1,62 @@
+
+*{
+  margin: 0;
+}
+
+#encabezado{
+  background: #5c3c7d;
+}
+
+#menu {
+  background-color:#333333;
+  width: auto;
+  height: 38px;
+  
+}  
+#menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+}
+#menu ul li {
+  display: inline-block;
+  padding: 10px;
+}
+#menu ul li a{
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+}
+#menu ul li a:hover{
+  color: white;
+  background: black;
+}
+.areapersonal{
+  width: 75%;
+  height: 300px;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  background: #c74173;
+}
+p{
+  color:#333333;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.descripcion{
+  color: yellow;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+}
+
+.piePagina{
+  width: 100%;
+  height: 112px;
+  background: #16101c;
+  color:white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  text-align: center;
+}
